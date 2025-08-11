@@ -65,4 +65,4 @@ The terminal will display a suggested offset value that you can reuse with the `
 ## Companion page
 
 Please check the companion page for audio examples:
-https://modantailleur.github.io/paperThirdOctavePrivacy/
+https://modantailleur.github.io/fast-to-wav/
